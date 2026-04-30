@@ -1,0 +1,15 @@
+## Scaletta
+
+- Codex
+- Creazione progetto
+- Prompt engineering
+- Modifica files
+- GitHub registrazione
+- GitHub Pages
+- Google Search Console
+
+
+## Link utili
+- https://developers.openai.com/codex/quickstart
+- https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api
+- https://code.visualstudio.com
